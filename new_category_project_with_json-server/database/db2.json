@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "username": "amin",
+      "password": "amin",
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "userId": 1,
+      "title": "super market",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "cothes",
+      "id": 2
+    }
+  ],
+  "subCategories": [
+    {
+      "title": "coca",
+      "categoryId": 1,
+      "price": 10,
+      "id": 1
+    },
+    {
+      "title": "cake",
+      "categoryId": 1,
+      "price": 5,
+      "id": 2
+    }
+  ]
+}
